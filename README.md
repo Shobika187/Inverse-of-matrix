@@ -39,9 +39,9 @@ print(l2)
 value1=np.array(l2)
 inverse=np.linalg.inv(value1)
 print(inverse)
+```
 ## OUTPUT:
 ![Output](.//outimg.png)
-```
 
 ## RESULT:
 
