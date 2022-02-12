@@ -25,6 +25,7 @@ For finding inverse we give inverse =np.linalg.inv.
 Now print(inverse).
 
 ## PROGRAM:
+```
 import numpy as np
 l1,l2=[],[]
 r,c=int(input()),int(input())
@@ -40,6 +41,7 @@ inverse=np.linalg.inv(value1)
 print(inverse)
 ## OUTPUT:
 ![Output](.//outimg.png)
+```
 
 ## RESULT:
 
